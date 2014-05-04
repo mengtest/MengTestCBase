@@ -33,5 +33,7 @@ void main() //Ö÷º¯Êý
 	sjlxtest3_2();
 	sjlxtest3_3();
 	sjlxtest3_4();
+	sjlxtest3_5();
+	sjlxtest3_6();
 }
 

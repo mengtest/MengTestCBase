@@ -44,3 +44,28 @@ void sjlxtest3_4()
 	d = y + b;
 	printf("类型转换c=x+a=%d,d=y+b=%d\n",c,d);
 }
+
+//标准Ｃ允许浮点数使用后缀。后缀为“f”或“F”即表示该数为浮点数
+void sjlxtest3_5(){
+	printf("%f\n", 356.);
+	printf("%f\n", 356);
+	printf("%f\n", 356.f);
+}
+
+//实型数据的舍入误差。
+void sjlxtest3_6(){
+	float x;
+	double y;
+
+	float a,b;
+	a = 123456.789e5;
+	b = a + 20;
+	printf("%f\n",a);
+	printf("%f\n",b);
+
+	
+	x = 33333.33333;
+	
+	y = 33333.33333333333333;
+	printf("x = %f\n,y=%f\n",x, y);
+}
