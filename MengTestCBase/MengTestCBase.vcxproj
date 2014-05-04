@@ -76,9 +76,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="shujuleixing3.h" />
+    <ClInclude Include="suanfa2.h" />
     <ClInclude Include="TestCMain.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="shujuleixing3.c" />
+    <ClCompile Include="suanfa2.c" />
     <ClCompile Include="TestCMain.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

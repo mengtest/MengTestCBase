@@ -18,9 +18,21 @@
     <ClInclude Include="TestCMain.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="suanfa2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shujuleixing3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TestCMain.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="suanfa2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shujuleixing3.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
