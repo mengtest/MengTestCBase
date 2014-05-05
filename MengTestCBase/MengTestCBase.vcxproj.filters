@@ -24,6 +24,18 @@
     <ClInclude Include="shujuleixing3.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="shunxu4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shuzu7.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hanshu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="file13.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TestCMain.c">
@@ -33,6 +45,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="shujuleixing3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shunxu4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shuzu7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hanshu.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="file13.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

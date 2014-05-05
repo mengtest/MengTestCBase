@@ -62,7 +62,6 @@ void sjlxtest3_6(){
 	b = a + 20;
 	printf("%f\n",a);
 	printf("%f\n",b);
-
 	
 	x = 33333.33333;
 	

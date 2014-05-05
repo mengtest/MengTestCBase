@@ -76,12 +76,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="file13.h" />
+    <ClInclude Include="hanshu.h" />
     <ClInclude Include="shujuleixing3.h" />
+    <ClInclude Include="shunxu4.h" />
+    <ClInclude Include="shuzu7.h" />
     <ClInclude Include="suanfa2.h" />
     <ClInclude Include="TestCMain.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="file13.c" />
+    <ClCompile Include="hanshu.c" />
     <ClCompile Include="shujuleixing3.c" />
+    <ClCompile Include="shunxu4.c" />
+    <ClCompile Include="shuzu7.c" />
     <ClCompile Include="suanfa2.c" />
     <ClCompile Include="TestCMain.c" />
   </ItemGroup>
